@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mostafa Alaa ( @mostafaalaa5)
 - 👀 I’m Data Scientist || machine learning || deep learning Engineer
 - 🌱 I’m currently learning machine learning...
+
 -Data Scientist and Machine Learning Engineer, developing intelligent solutions that foster creativity. Possessing proficiency in Python, SQL, TensorFlow, scikit-learn, and data visualization, along with a fervor for transforming data into useful insights.Driven by the capabilities of AI and data science, I am dedicated to addressing intricate difficulties and generating quantifiable effects with advanced technology.
 
 <!---
